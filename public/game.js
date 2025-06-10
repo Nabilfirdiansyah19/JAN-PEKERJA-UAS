@@ -481,7 +481,7 @@ const shelves = [
 ];
 
 // Variabel setiap bar
-let health = 1;
+let health = 50;
 let energy = 50;
 let hunger = 50;
 let hygiene = 50;
